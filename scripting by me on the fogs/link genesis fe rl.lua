@@ -1,0 +1,1 @@
+https://github.com/GenesisFE/Genesis/tree/main/Loadstrings
